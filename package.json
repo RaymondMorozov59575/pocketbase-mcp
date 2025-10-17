@@ -1,6 +1,6 @@
 {
   "name": "pocketbase-mcp",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "MCP server for building PocketBase apps really quickly - Need a front end quick consider FastPocket",
   "main": "src/index.ts",
   "scripts": {
